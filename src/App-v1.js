@@ -52,7 +52,7 @@ function App() {
 				onAddPost: handleAddPost,
 				onClearPosts: handleClearPosts,
 				searchQuery,
-				setSearchQuery: searchQuery,
+				setSearchQuery,
 			}}
 		>
 			<section>
